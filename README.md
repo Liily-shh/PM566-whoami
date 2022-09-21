@@ -56,7 +56,7 @@ repository.
 
 - [**@qiushipeng**](https://github.com/qiushipeng) Hi, I am Qiushi Peng, a master student majoring in Pharmaceutical Science.
 
-- [**@shkhyan**](https://github.com/shkhyan) I am a competitive spicy food eater. <img src="https://avatars.githubusercontent.com/u/111995300?v=4"> 
+- [**@liily-shh**](https://github.com/shkhyan) I am a competitive spicy food eater. <img src="https://avatars.githubusercontent.com/u/111995300?v=4 alt="github pic" width="40px"> 
 
 - [**@eztang12**](https://github.com/eztang12) Hi everyone! I'm Echo, and I'm a progressive degree student getting my B.S. in Quantitative Biology and M.S. in Public Health Data Science.
 
